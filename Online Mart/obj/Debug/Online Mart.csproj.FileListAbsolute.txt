@@ -1,0 +1,12 @@
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\bin\Debug\Online Mart.exe.config
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\bin\Debug\Online Mart.pdb
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\bin\Debug\Online Mart.exe
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\obj\Debug\Online_Mart.Form1.resources
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\obj\Debug\Online_Mart.Form2.resources
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\obj\Debug\Online_Mart.Properties.Resources.resources
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\obj\Debug\Online Mart.csproj.GenerateResource.cache
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\obj\Debug\Online Mart.exe
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\obj\Debug\Online Mart.pdb
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\obj\Debug\Online Mart.csprojAssemblyReference.cache
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\obj\Debug\Online_Mart.Form3.resources
+C:\Users\Rehan Khan\source\repos\Online Mart\Online Mart\obj\Debug\Online_Mart.Form4.resources
